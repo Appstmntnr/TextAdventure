@@ -1,0 +1,27 @@
+DIALOGUE 0
+SPEAKER: Bichael
+TEXT: What do you want for dinner?
+OPTION 0: Shawarma Plus
+OPTION 1: Lazees
+OPTION 2: Shawarma Plus
+RESPONSE 0: 1
+RESPONSE 1: 2
+RESPONSE 2: 1
+
+DIALOGUE 1
+SPEAKER: Bichael
+TEXT: Yaas boii
+OPTION 0: NULL
+RESPONSE 0: 0
+
+DIALOGUE 2
+SPEAKER: Saylor
+TEXT: Oui
+OPTION 0: NULL
+RESPONSE 0: 3
+
+DIALOGUE 3
+SPEAKER: Bichael
+TEXT: Y tho
+OPTION 0: NULL
+RESPONSE 0: 0
